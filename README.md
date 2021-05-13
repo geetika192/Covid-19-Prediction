@@ -1,0 +1,2 @@
+# Covid-19-Prediction
+This project involves development of a Machine Learning Model using Python Programming Language for Covid - 19 Prediction. This project made a comparison of different machine learning algorithm to predict the number of positive cases in India as per the given date. The model is tested with different machine learning algorithms and the algorithm which gave the most accurate result has been used.
